@@ -2,9 +2,9 @@
   "name": "mini-serve",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "example": "npx ts-node index.ts example -p 8000"
   },
   "keywords": [],
   "author": "",
